@@ -1,4 +1,4 @@
-### Ne nézd az oldalam 👋
+###HI👋
 
 <!--
 **megyerimark/megyerimark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
